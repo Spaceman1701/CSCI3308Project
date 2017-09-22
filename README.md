@@ -4,10 +4,10 @@
 
 
 
-#Project members:
-Anya Owsenek\n
-Amar Patel\n
-Matt Lawson\n
-Trevor Jediniak\n
-Ethan Hunter\n
+# Project members:  
+Anya Owsenek  
+Amar Patel  
+Matt Lawson  
+Trevor Jediniak  
+Ethan Hunter  
 Brennan Vaughn
