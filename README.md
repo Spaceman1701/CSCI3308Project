@@ -10,4 +10,4 @@ Amar Patel
 Matt Lawson  
 Trevor Jediniak  
 Ethan Hunter  
-Brennan Vaughn
+Brennen Vaughn
